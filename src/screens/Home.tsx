@@ -34,7 +34,7 @@ export function Home() {
                     </Text>
                 </HStack>
 
-                <HStack>
+                <HStack space={3} mb={8}>
                     <Filter
                         type="open"
                         title="em andamento"
